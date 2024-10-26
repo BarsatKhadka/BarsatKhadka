@@ -1,36 +1,4 @@
-<style>
-  body {
-    font-family: 'Arial', sans-serif;
-    background: linear-gradient(135deg, #f2f2f2, #e6e6e6);
-    color: #333;
-  }
-  h1 {
-    color: #4CAF50;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-  }
-  h2 {
-    color: #ff5722;
-  }
-  .tech-icons img {
-    transition: transform 0.3s;
-  }
-  .tech-icons img:hover {
-    transform: scale(1.1);
-  }
-  .stats {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-  }
-  .card {
-    background: white;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    margin: 10px;
-    text-align: center;
-  }
-</style>
+
 
 <h1 align="center">👋 Hello, I'm Barsat Khadka!</h1>
 <h2 align="center">🌟 Aspiring Software Engineer | Java & Python Enthusiast</h2>

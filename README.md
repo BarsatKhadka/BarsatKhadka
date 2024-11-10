@@ -1,76 +1,28 @@
+<h1 align="center">Hi, I'm Barsat Khadka</h1>
+<h3 align="center">Software engineer with hands on Java and python.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barsatkhadka&label=Profile%20views&color=0e75b6&style=flat" alt="barsatkhadka" /> </p>
 
-<h1 align="center">👋 Hello, I'm Barsat Khadka!</h1>
-<h2 align="center">🌟 Aspiring Software Engineer | Java & Python Enthusiast</h2>
+- 🔭 I’m currently working on **Full stack Projects**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barsatkhadka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+- 🌱 I’m currently learning **Microservice achitecture and android**
+
+- 💬 Ask me about **Spring and backend development**
+
+- 📫 How to reach me **khadkabarsat598@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/barsat khadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barsat khadka" height="30" width="40" /></a>
+<a href="https://instagram.com/khadka.barsat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khadka.barsat" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <h3 style="color: #ff5722;">🔍 About Me</h3>
-  <p style="max-width: 600px;">I'm a passionate software engineer focused on building robust applications and exploring cutting-edge technologies. I thrive in dynamic environments and enjoy collaborating with like-minded individuals.</p>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barsatkhadka&show_icons=true&locale=en&layout=compact" alt="barsatkhadka" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barsatkhadka&show_icons=true&locale=en" alt="barsatkhadka" /></p>
 
-### 🛠️ My Tech Stack
-<div align="center" class="tech-icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="AWS" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barsatkhadka&" alt="barsatkhadka" /></p>
 
----
-
-### 🌱 Currently Learning
-- **Spring Framework**: Elevating my backend development skills.
-
-### 💬 Ask Me About
-- **Microservices Architecture**: Sharing insights on modern application design.
-
----
-
-### 📫 Let's Connect!
-<div align="center">
-  <a href="mailto:khadkabarsat598@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khadkabarsat598@gmail.com-blue?style=for-the-badge" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/barsatkhadka" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-green?style=for-the-badge" alt="GitHub" />
-  </a>
-</div>
-
----
-
-### 📈 GitHub Stats
-<div class="stats">
-  <div class="card">
-    <img src="https://github-readme-stats.vercel.app/api?username=barsatkhadka&show_icons=true&theme=radical" alt="Barsat Khadka's GitHub Stats" />
-  </div>
-  <div class="card">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=barsatkhadka&theme=radical" alt="GitHub Streak" />
-  </div>
-</div>
-
----
-
-### 🌍 Fun Fact
-I believe in the power of collaboration and continuous learning. When I’m not coding, you can find me exploring new tech trends or contributing to open-source projects.
-
----
-
-### 🎉 Thank You for Visiting My Profile!
-I’m excited to connect with fellow developers, collaborate on interesting projects, and share knowledge. Let’s build something amazing together! 🚀

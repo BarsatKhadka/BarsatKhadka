@@ -38,6 +38,8 @@
 <h3 align="left">GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barsatkhadka&layout=compact&langs_count=10" alt="barsatkhadka" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barsatkhadka&show_icons=true&locale=en" alt="barsatkhadka" /></p>

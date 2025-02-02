@@ -4,7 +4,7 @@
 📍 USA  
 *Freshman at the University of Southern Mississippi*  
 
-[Resume](https://drive.google.com/uc?export=download&id=1wSG8F6HTwxko0x_ZAJXvxqtRGiZvqCxh)  
+[Resume](https://drive.google.com/uc?export=download&id=1ILO_0hHBR2KyjZC_ahgCzte8NJiPrJzj)  
 
 ---
 

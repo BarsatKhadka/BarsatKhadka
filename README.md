@@ -1,7 +1,6 @@
 # Barsat Khadka  
-**Seeking SWE Internships @2025**  
-📍 USA  
-*The University of Southern Mississippi*  
+ Bachelor of Science , Computer Engineering
+* Honors Scholar @The University of Southern Mississippi*  
 
 
 [Click Me For Resume](https://drive.google.com/uc?export=download&id=1v3rmKVU3mFHJZiVmdj2XGWKxvGOrTmVa)  

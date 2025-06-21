@@ -3,7 +3,7 @@
 * Honors Scholar @The University of Southern Mississippi*  
 
 
-[Click Me For Resume](https://drive.google.com/uc?export=download&id=1v3rmKVU3mFHJZiVmdj2XGWKxvGOrTmVa)  
+[barsat.dev](https://www.barsat.dev/)  
 ---
 ### **Top Languages**  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barsatKhadka&layout=compact&theme=dark&hide_border=true&langs_count=20)](https://github.com/barsatKhadka)

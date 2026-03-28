@@ -29,4 +29,4 @@ I've always had the vision of being a scientist, and I love doing research for t
 
 ---
 
-[📧 Email](mailto:khadkabarsat598@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/barsat-khadka) • [📄 Resume](./resume.pdf)
+[📧 Email](mailto:khadkabarsat598@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/barsat-khadka) • [📄 Resume](https://drive.google.com/file/d/1wOP0CS3UARHHvoPbmoC4Q2dHNSnyMDn8/view)
